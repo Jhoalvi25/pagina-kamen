@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  margin-left: 20px;
+}
+
+.nav {
+  width: 100%;
+  background-color: black;
+  border-bottom: solid gold;
+}
+
+.container{
+    margin-top: 30px;
+    align-items: center; 
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+
+.title-h{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.title{
+    color: white;
+}
+
+.oma{
+    width: 550px;
+    height: 350px;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.des{
+    color: white;
+    margin: 50px;
+    font-size: 25px;
+}
